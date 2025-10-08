@@ -1,0 +1,9 @@
+https://520114075881.signin.aws.amazon.com/console
+id: sabir201@gmail.com
+password: Said_02041970
+
+ssh -i /path/to/your-key.pem ec2-user@<Your-Public-IP>
+
+ec2-35-156-162-179.eu-central-1.compute.amazonaws.com
+
+ssh -i "WebServerKey.pem" ubuntu@ec2-35-156-162-179.eu-central-1.compute.amazonaws.com
